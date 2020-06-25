@@ -53,6 +53,7 @@ add_message_files(
   StateVariables.msg
   MPC_EstStates.msg
   Path.msg
+  MPCdiagnostics.msg
 )
 
 ## Generate services in the 'srv' folder
